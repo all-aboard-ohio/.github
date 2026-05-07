@@ -32,8 +32,7 @@ We focus on **economics and quality of life** — commute times, job access, hou
 |---|---|
 | [aao-lab-homepage](https://github.com/all-aboard-ohio/aao-lab-homepage) | The React + Vite homepage at lab.allaboardohio.org |
 | [aao-lab-components](https://github.com/all-aboard-ohio/aao-lab-components) | Shared web component library — <aao-site-header>, <aao-notification> |
-| [aao-lab-docs](https://github.com/all-aboard-ohio/aao-lab-docs) | Contributor documentation, rendered on the homepage |
-| [.github](https://github.com/all-aboard-ohio/.github) | Org profile and default community health files |
+| [aao-lab-docs](https://github.com/all-aboard-ohio/aao-lab-docs) | Contributor documentation, rendered on the homepage || [aao-lab-planning](https://github.com/all-aboard-ohio/aao-lab-planning) | Project proposals — suggest a new tool or analysis here || [.github](https://github.com/all-aboard-ohio/.github) | Org profile and default community health files |
 
 For a current view of what's in progress, see the [GitHub Projects board](https://github.com/orgs/all-aboard-ohio/projects) or the active tools listed on [lab.allaboardohio.org](https://lab.allaboardohio.org).
 
@@ -59,7 +58,7 @@ AAO Data Lab is entirely volunteer-run and welcomes contributors across every di
 
 1. **[Join the Slack workspace](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w)** — introduce yourself in #welcome
 2. **[Read the contributor docs](https://github.com/all-aboard-ohio/aao-lab-docs)** — start with the [Onboarding Checklist](https://github.com/all-aboard-ohio/aao-lab-docs/blob/main/onboarding.md)
-3. **[Browse open issues](https://github.com/orgs/all-aboard-ohio/projects)** — look for the good first issue label
+3. **[Browse the project board](https://github.com/orgs/all-aboard-ohio/projects)** — look for `good first issue`, or propose something new in [`aao-lab-planning`](https://github.com/all-aboard-ohio/aao-lab-planning)
 4. **[Visit the live site](https://lab.allaboardohio.org)** — see what we've shipped
 
 ---
