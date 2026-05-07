@@ -8,7 +8,7 @@
 
 [![Live Site](https://img.shields.io/badge/lab.allaboardohio.org-012345?style=for-the-badge&logoColor=white)](https://lab.allaboardohio.org)
 [![GitHub Org](https://img.shields.io/badge/GitHub-all--aboard--ohio-388CBB?style=for-the-badge&logo=github)](https://github.com/all-aboard-ohio)
-[![Join Slack](https://img.shields.io/badge/Slack-Join_the_community-B72717?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA)
+[![Join Slack](https://img.shields.io/badge/Slack-Join_the_community-B72717?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w)
 
 </div>
 
@@ -57,7 +57,7 @@ AAO Data Lab is entirely volunteer-run and welcomes contributors across every di
 
 ## Get Involved
 
-1. **[Join the Slack workspace](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA)** — introduce yourself in #welcome
+1. **[Join the Slack workspace](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w)** — introduce yourself in #welcome
 2. **[Read the contributor docs](https://github.com/all-aboard-ohio/aao-lab-docs)** — start with the [Onboarding Checklist](https://github.com/all-aboard-ohio/aao-lab-docs/blob/main/onboarding.md)
 3. **[Browse open issues](https://github.com/orgs/all-aboard-ohio/projects)** — look for the good first issue label
 4. **[Visit the live site](https://lab.allaboardohio.org)** — see what we've shipped
