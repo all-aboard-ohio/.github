@@ -32,7 +32,8 @@ We focus on **economics and quality of life** — commute times, job access, hou
 |---|---|
 | [aao-lab-homepage](https://github.com/all-aboard-ohio/aao-lab-homepage) | The React + Vite homepage at lab.allaboardohio.org |
 | [aao-lab-components](https://github.com/all-aboard-ohio/aao-lab-components) | Shared web component library — <aao-site-header>, <aao-notification> |
-| [aao-lab-docs](https://github.com/all-aboard-ohio/aao-lab-docs) | Contributor documentation, rendered on the homepage || [aao-lab-planning](https://github.com/all-aboard-ohio/aao-lab-planning) | Project proposals — suggest a new tool or analysis here || [.github](https://github.com/all-aboard-ohio/.github) | Org profile and default community health files |
+| [aao-lab-docs](https://github.com/all-aboard-ohio/aao-lab-docs) | Contributor documentation, rendered on the homepage |
+| [aao-lab-planning](https://github.com/all-aboard-ohio/aao-lab-planning) | Project proposals — suggest a new tool or analysis here || [.github](https://github.com/all-aboard-ohio/.github) | Org profile and default community health files |
 
 For a current view of what's in progress, see the [GitHub Projects board](https://github.com/orgs/all-aboard-ohio/projects) or the active tools listed on [lab.allaboardohio.org](https://lab.allaboardohio.org).
 
@@ -67,7 +68,7 @@ AAO Data Lab is entirely volunteer-run and welcomes contributors across every di
 
 All AAO Data Lab projects follow shared standards documented in [aao-lab-docs](https://github.com/all-aboard-ohio/aao-lab-docs):
 
-- **Shared components** — every public tool uses <aao-site-header> and <aao-notification> from ao-lab-components
+- **Shared components** — every public tool uses <aao-site-header> and <aao-notification> from aao-lab-components
 - **Privacy-first** — no personal data collection, no third-party analytics trackers
 - **Accessibility** — WCAG 2.1 AA minimum on all tools
 - **Open source** — every project, every dataset, every model is public
